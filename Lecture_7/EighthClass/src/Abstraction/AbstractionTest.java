@@ -12,7 +12,7 @@ package Abstraction;
 public class AbstractionTest {
     
     abstract class TwoWheeler{
-        public 
+        //public 
     }
     
 }
